@@ -2,9 +2,9 @@
 import function
 daftar_kontak = []
 daftar_kontak.append ({
-    "nama" : "kharisma" ,
-    "email" : "kharisma@gmail.com" ,
-    "telepon" : "089623568964"
+    "nama" : "risa" ,
+    "email" : "risaa@gmail.com" ,
+    "telepon" : "08999992222"
 })
 #menu program
 while True:
